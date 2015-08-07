@@ -11,7 +11,7 @@ public class eraser extends JFrame implements MouseListener, MouseMotionListener
 		this.setSize(600, 600);
 		this.getContentPane().setBackground(Color.white);
 		
-		System.out.println("git test");
+		System.out.println("git test2");
 	}
 
 	@Override
